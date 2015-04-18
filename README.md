@@ -7,12 +7,12 @@ Also there are examples using these libraries showing Neural Network ability to 
 
 Algorithms implemented:
 1. Logistic regression - 
-	- Cost function with advanced optimization
-	- One vs All classification
+  - Cost function with advanced optimization
+  - One vs All classification
 2. Neural Network - 
-	- Cost function
-	- BackPropgation and FeedForward algorithms
-	- Numerical gradient checking for debugging purposes
+  - Cost function
+  - BackPropgation and FeedForward algorithms
+  - Numerical gradient checking for debugging purposes
 
 ## Installation
 

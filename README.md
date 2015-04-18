@@ -6,6 +6,7 @@ classification algorithms libraries such as Neural Network and Logistic Regressi
 Also there are examples using these libraries showing Neural Network ability to classify handwritten characters. 
 
 Algorithms implemented:
+
 1. Logistic regression - 
   - Cost function with advanced optimization
   - One vs All classification
